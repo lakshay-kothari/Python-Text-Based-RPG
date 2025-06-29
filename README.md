@@ -27,6 +27,5 @@ Legends of the Enchanted Forest is a text-based adventure game with an optional 
 6. **Level Up**: Improve your stats and survive tougher challenges.
 7. **Win the Game**: Find the legendary artifact to complete the adventure.
 
----
 Enjoy the adventure! 🌲⚔️✨
 
